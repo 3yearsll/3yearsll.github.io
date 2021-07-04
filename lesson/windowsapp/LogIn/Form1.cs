@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -24,6 +24,7 @@ namespace LogIn
         //图片轮流播放计数器
         private static int i = 1;
         //设置登录按钮是否可用
+        
         void Enable()
         {
             if( textBox1.Text.Length>0 && textBox2.Text.Length > 0)
@@ -33,6 +34,36 @@ namespace LogIn
             else
             {
                 button1.Enabled = false;
+            }
+        }
+        //登录
+        void Login()
+        {
+            if (textBox1.Text.Equals(name) && textBox2.Text.Equals(password) && PasswordLength() && PassWordIsLegal())
+            {
+                f2.Show();
+            }
+            else
+            {
+                //用户名不存在则询问是否注册
+                if (!name.Equals(textBox1.Text))
+                {
+                    DialogResult = MessageBox.Show("用户名不存在是否注册", "用户名不存在", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
+                }
+
+                trycount++;
+            }
+            if (DialogResult == DialogResult.OK)
+            {
+                Form3 f3 = new Form3();
+                f3.Show();
+                //点击注册后重置密码次数
+                trycount = 0;
+            }
+            //密码错误三次关闭登录界面
+            if (trycount == 3)
+            {
+                this.Close();
             }
         }
         //判断用户名是否超过八位
@@ -68,7 +99,7 @@ namespace LogIn
         //用户名输入
         private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
         {
-            
+            //只能输入数字和退格键
             if (char.IsNumber(e.KeyChar)||e.KeyChar==8)
             {
                 
@@ -87,10 +118,11 @@ namespace LogIn
             Enable();
             
         }
-
+        //密码输入
         private void textBox2_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (char.IsLetter(e.KeyChar) || char.IsPunctuation(e.KeyChar)||char.IsNumber(e.KeyChar)|| e.KeyChar == 8)
+            //只能输入数字字符标点 回车退格键
+            if (char.IsLetter(e.KeyChar) || char.IsPunctuation(e.KeyChar)||char.IsNumber(e.KeyChar)|| e.KeyChar == 8||e.KeyChar==13)
             {
                 
                 label4.Text = "";
@@ -101,33 +133,17 @@ namespace LogIn
                 e.Handled = true;
                 label4.Text = "密码不符合要求";
             }
+            //按下回车登录
+            if (e.KeyChar == 13)
+            {
+                Login();
+            }
             Enable();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text.Equals(name) && textBox2.Text.Equals(password) && PasswordLength() && PassWordIsLegal())
-            {
-                f2.Show();
-            }
-            else
-            {
-                if (!name.Equals(textBox1.Text))
-                {
-                    DialogResult = MessageBox.Show("用户名不存在是否注册","用户名不存在", MessageBoxButtons.OKCancel, MessageBoxIcon.Question);
-                }
-               
-                trycount++;
-            }
-            if (DialogResult == DialogResult.OK)
-            {
-                Form3 f3 = new Form3();
-                f3.Show();
-            }
-            if (trycount == 3)
-            {
-                this.Close();
-            }
+            Login();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
