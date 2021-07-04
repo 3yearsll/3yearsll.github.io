@@ -1,0 +1,13 @@
+F:\c#\Practise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\c#\Practise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\c#\Practise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\c#\Practise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\c#\Practise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\c#\Practise\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+F:\c#\Practise\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.AssemblyReference.cache

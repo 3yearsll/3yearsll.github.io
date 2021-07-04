@@ -1,0 +1,11 @@
+F:\c#\homework\homework_4_3\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+F:\c#\homework\homework_4_3\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+F:\c#\homework\homework_4_3\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+F:\c#\homework\homework_4_3\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+F:\c#\homework\homework_4_3\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+F:\c#\homework\homework_4_3\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+F:\c#\homework\homework_4_3\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csprojAssemblyReference.cache
+F:\c#\homework\homework_4_3\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+F:\c#\homework\homework_4_3\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+F:\c#\homework\homework_4_3\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+F:\c#\homework\homework_4_3\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb

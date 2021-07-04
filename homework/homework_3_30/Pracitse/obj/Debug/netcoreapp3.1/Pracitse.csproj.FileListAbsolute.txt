@@ -1,0 +1,11 @@
+F:\c#\homework\homework_3_30\Pracitse\obj\Debug\netcoreapp3.1\Pracitse.AssemblyInfoInputs.cache
+F:\c#\homework\homework_3_30\Pracitse\obj\Debug\netcoreapp3.1\Pracitse.AssemblyInfo.cs
+F:\c#\homework\homework_3_30\Pracitse\obj\Debug\netcoreapp3.1\Pracitse.dll
+F:\c#\homework\homework_3_30\Pracitse\obj\Debug\netcoreapp3.1\Pracitse.pdb
+F:\c#\homework\homework_3_30\Pracitse\bin\Debug\netcoreapp3.1\Pracitse.exe
+F:\c#\homework\homework_3_30\Pracitse\bin\Debug\netcoreapp3.1\Pracitse.deps.json
+F:\c#\homework\homework_3_30\Pracitse\bin\Debug\netcoreapp3.1\Pracitse.runtimeconfig.json
+F:\c#\homework\homework_3_30\Pracitse\bin\Debug\netcoreapp3.1\Pracitse.runtimeconfig.dev.json
+F:\c#\homework\homework_3_30\Pracitse\bin\Debug\netcoreapp3.1\Pracitse.dll
+F:\c#\homework\homework_3_30\Pracitse\bin\Debug\netcoreapp3.1\Pracitse.pdb
+F:\c#\homework\homework_3_30\Pracitse\obj\Debug\netcoreapp3.1\Pracitse.csprojAssemblyReference.cache

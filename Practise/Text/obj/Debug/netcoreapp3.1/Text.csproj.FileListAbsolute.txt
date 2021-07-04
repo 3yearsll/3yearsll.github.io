@@ -1,0 +1,11 @@
+F:\c#\Practise\Text\bin\Debug\netcoreapp3.1\Text.exe
+F:\c#\Practise\Text\bin\Debug\netcoreapp3.1\Text.deps.json
+F:\c#\Practise\Text\bin\Debug\netcoreapp3.1\Text.runtimeconfig.json
+F:\c#\Practise\Text\bin\Debug\netcoreapp3.1\Text.runtimeconfig.dev.json
+F:\c#\Practise\Text\bin\Debug\netcoreapp3.1\Text.dll
+F:\c#\Practise\Text\bin\Debug\netcoreapp3.1\Text.pdb
+F:\c#\Practise\Text\obj\Debug\netcoreapp3.1\Text.csprojAssemblyReference.cache
+F:\c#\Practise\Text\obj\Debug\netcoreapp3.1\Text.AssemblyInfoInputs.cache
+F:\c#\Practise\Text\obj\Debug\netcoreapp3.1\Text.AssemblyInfo.cs
+F:\c#\Practise\Text\obj\Debug\netcoreapp3.1\Text.dll
+F:\c#\Practise\Text\obj\Debug\netcoreapp3.1\Text.pdb

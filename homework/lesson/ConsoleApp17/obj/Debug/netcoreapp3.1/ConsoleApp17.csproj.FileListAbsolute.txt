@@ -1,0 +1,10 @@
+F:\c#\homework\lesson\ConsoleApp17\obj\Debug\netcoreapp3.1\ConsoleApp17.AssemblyInfoInputs.cache
+F:\c#\homework\lesson\ConsoleApp17\obj\Debug\netcoreapp3.1\ConsoleApp17.AssemblyInfo.cs
+F:\c#\homework\lesson\ConsoleApp17\obj\Debug\netcoreapp3.1\ConsoleApp17.dll
+F:\c#\homework\lesson\ConsoleApp17\obj\Debug\netcoreapp3.1\ConsoleApp17.pdb
+F:\c#\homework\lesson\ConsoleApp17\bin\Debug\netcoreapp3.1\ConsoleApp17.exe
+F:\c#\homework\lesson\ConsoleApp17\bin\Debug\netcoreapp3.1\ConsoleApp17.deps.json
+F:\c#\homework\lesson\ConsoleApp17\bin\Debug\netcoreapp3.1\ConsoleApp17.runtimeconfig.json
+F:\c#\homework\lesson\ConsoleApp17\bin\Debug\netcoreapp3.1\ConsoleApp17.runtimeconfig.dev.json
+F:\c#\homework\lesson\ConsoleApp17\bin\Debug\netcoreapp3.1\ConsoleApp17.dll
+F:\c#\homework\lesson\ConsoleApp17\bin\Debug\netcoreapp3.1\ConsoleApp17.pdb

@@ -1,0 +1,11 @@
+F:\c#\homework\lesson\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.exe
+F:\c#\homework\lesson\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.deps.json
+F:\c#\homework\lesson\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.json
+F:\c#\homework\lesson\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.runtimeconfig.dev.json
+F:\c#\homework\lesson\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.dll
+F:\c#\homework\lesson\ConsoleApp9\bin\Debug\netcoreapp3.1\ConsoleApp9.pdb
+F:\c#\homework\lesson\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.csprojAssemblyReference.cache
+F:\c#\homework\lesson\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfoInputs.cache
+F:\c#\homework\lesson\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.AssemblyInfo.cs
+F:\c#\homework\lesson\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.dll
+F:\c#\homework\lesson\ConsoleApp9\obj\Debug\netcoreapp3.1\ConsoleApp9.pdb

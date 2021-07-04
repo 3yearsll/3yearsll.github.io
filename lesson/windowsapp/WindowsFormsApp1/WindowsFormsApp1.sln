@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodMenu", "..\FoodMenu\FoodMenu.csproj", "{A52567AD-1475-43F0-8530-8D29143013BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogIn", "..\LogIn\LogIn.csproj", "{DF8FEAE5-D342-4739-A80B-0A228A548844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Textbox", "..\Textbox\Textbox.csproj", "{5BEFD2D5-8599-40D3-8AEC-6C191C4DF435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52567AD-1475-43F0-8530-8D29143013BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52567AD-1475-43F0-8530-8D29143013BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52567AD-1475-43F0-8530-8D29143013BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52567AD-1475-43F0-8530-8D29143013BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8FEAE5-D342-4739-A80B-0A228A548844}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8FEAE5-D342-4739-A80B-0A228A548844}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8FEAE5-D342-4739-A80B-0A228A548844}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8FEAE5-D342-4739-A80B-0A228A548844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEFD2D5-8599-40D3-8AEC-6C191C4DF435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEFD2D5-8599-40D3-8AEC-6C191C4DF435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEFD2D5-8599-40D3-8AEC-6C191C4DF435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEFD2D5-8599-40D3-8AEC-6C191C4DF435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D5195DE-6349-4089-9098-830723E60365}
+	EndGlobalSection
+EndGlobal

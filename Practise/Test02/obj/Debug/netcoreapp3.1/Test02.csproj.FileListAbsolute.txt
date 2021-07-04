@@ -1,0 +1,13 @@
+F:\c#\Practise\Test02\bin\Debug\netcoreapp3.1\Test02.exe
+F:\c#\Practise\Test02\bin\Debug\netcoreapp3.1\Test02.deps.json
+F:\c#\Practise\Test02\bin\Debug\netcoreapp3.1\Test02.runtimeconfig.json
+F:\c#\Practise\Test02\bin\Debug\netcoreapp3.1\Test02.runtimeconfig.dev.json
+F:\c#\Practise\Test02\bin\Debug\netcoreapp3.1\Test02.dll
+F:\c#\Practise\Test02\bin\Debug\netcoreapp3.1\Test02.pdb
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.AssemblyInfoInputs.cache
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.AssemblyInfo.cs
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.dll
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.pdb
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.csproj.AssemblyReference.cache
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.csproj.CoreCompileInputs.cache
+F:\c#\Practise\Test02\obj\Debug\netcoreapp3.1\Test02.genruntimeconfig.cache

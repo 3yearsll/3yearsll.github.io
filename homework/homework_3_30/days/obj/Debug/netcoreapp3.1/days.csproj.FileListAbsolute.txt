@@ -1,0 +1,11 @@
+F:\c#\homework\homework_3_30\days\bin\Debug\netcoreapp3.1\days.exe
+F:\c#\homework\homework_3_30\days\bin\Debug\netcoreapp3.1\days.deps.json
+F:\c#\homework\homework_3_30\days\bin\Debug\netcoreapp3.1\days.runtimeconfig.json
+F:\c#\homework\homework_3_30\days\bin\Debug\netcoreapp3.1\days.runtimeconfig.dev.json
+F:\c#\homework\homework_3_30\days\bin\Debug\netcoreapp3.1\days.dll
+F:\c#\homework\homework_3_30\days\bin\Debug\netcoreapp3.1\days.pdb
+F:\c#\homework\homework_3_30\days\obj\Debug\netcoreapp3.1\days.csprojAssemblyReference.cache
+F:\c#\homework\homework_3_30\days\obj\Debug\netcoreapp3.1\days.AssemblyInfoInputs.cache
+F:\c#\homework\homework_3_30\days\obj\Debug\netcoreapp3.1\days.AssemblyInfo.cs
+F:\c#\homework\homework_3_30\days\obj\Debug\netcoreapp3.1\days.dll
+F:\c#\homework\homework_3_30\days\obj\Debug\netcoreapp3.1\days.pdb

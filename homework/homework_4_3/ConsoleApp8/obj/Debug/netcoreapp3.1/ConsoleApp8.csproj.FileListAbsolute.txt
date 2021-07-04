@@ -1,0 +1,11 @@
+F:\c#\homework\homework_4_3\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+F:\c#\homework\homework_4_3\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+F:\c#\homework\homework_4_3\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+F:\c#\homework\homework_4_3\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+F:\c#\homework\homework_4_3\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+F:\c#\homework\homework_4_3\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+F:\c#\homework\homework_4_3\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csprojAssemblyReference.cache
+F:\c#\homework\homework_4_3\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+F:\c#\homework\homework_4_3\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+F:\c#\homework\homework_4_3\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+F:\c#\homework\homework_4_3\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb

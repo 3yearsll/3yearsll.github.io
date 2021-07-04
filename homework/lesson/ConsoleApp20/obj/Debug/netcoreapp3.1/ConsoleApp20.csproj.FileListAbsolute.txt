@@ -1,0 +1,11 @@
+F:\c#\homework\lesson\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.exe
+F:\c#\homework\lesson\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.deps.json
+F:\c#\homework\lesson\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.json
+F:\c#\homework\lesson\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.runtimeconfig.dev.json
+F:\c#\homework\lesson\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.dll
+F:\c#\homework\lesson\ConsoleApp20\bin\Debug\netcoreapp3.1\ConsoleApp20.pdb
+F:\c#\homework\lesson\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.csprojAssemblyReference.cache
+F:\c#\homework\lesson\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfoInputs.cache
+F:\c#\homework\lesson\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.AssemblyInfo.cs
+F:\c#\homework\lesson\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.dll
+F:\c#\homework\lesson\ConsoleApp20\obj\Debug\netcoreapp3.1\ConsoleApp20.pdb

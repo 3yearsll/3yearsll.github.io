@@ -1,0 +1,11 @@
+F:\c#\homework\lesson\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.exe
+F:\c#\homework\lesson\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.deps.json
+F:\c#\homework\lesson\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.json
+F:\c#\homework\lesson\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.runtimeconfig.dev.json
+F:\c#\homework\lesson\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.dll
+F:\c#\homework\lesson\ConsoleApp10\bin\Debug\netcoreapp3.1\ConsoleApp10.pdb
+F:\c#\homework\lesson\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.csprojAssemblyReference.cache
+F:\c#\homework\lesson\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfoInputs.cache
+F:\c#\homework\lesson\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.AssemblyInfo.cs
+F:\c#\homework\lesson\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.dll
+F:\c#\homework\lesson\ConsoleApp10\obj\Debug\netcoreapp3.1\ConsoleApp10.pdb

@@ -1,0 +1,11 @@
+F:\c#\Exam\MidExam\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+F:\c#\Exam\MidExam\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+F:\c#\Exam\MidExam\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+F:\c#\Exam\MidExam\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+F:\c#\Exam\MidExam\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\c#\Exam\MidExam\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+F:\c#\Exam\MidExam\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+F:\c#\Exam\MidExam\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+F:\c#\Exam\MidExam\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+F:\c#\Exam\MidExam\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+F:\c#\Exam\MidExam\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb

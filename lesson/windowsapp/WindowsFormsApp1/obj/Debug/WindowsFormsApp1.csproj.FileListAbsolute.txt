@@ -1,0 +1,10 @@
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.我的第一个窗口.resources
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\c#\lesson\windowsapp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\c#\lesson\windowsapp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\c#\lesson\windowsapp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\c#\lesson\windowsapp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

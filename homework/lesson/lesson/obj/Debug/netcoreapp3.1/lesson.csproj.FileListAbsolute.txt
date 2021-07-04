@@ -1,0 +1,11 @@
+F:\c#\homework\lesson\lesson\bin\Debug\netcoreapp3.1\lesson.exe
+F:\c#\homework\lesson\lesson\bin\Debug\netcoreapp3.1\lesson.deps.json
+F:\c#\homework\lesson\lesson\bin\Debug\netcoreapp3.1\lesson.runtimeconfig.json
+F:\c#\homework\lesson\lesson\bin\Debug\netcoreapp3.1\lesson.runtimeconfig.dev.json
+F:\c#\homework\lesson\lesson\bin\Debug\netcoreapp3.1\lesson.dll
+F:\c#\homework\lesson\lesson\bin\Debug\netcoreapp3.1\lesson.pdb
+F:\c#\homework\lesson\lesson\obj\Debug\netcoreapp3.1\lesson.csprojAssemblyReference.cache
+F:\c#\homework\lesson\lesson\obj\Debug\netcoreapp3.1\lesson.AssemblyInfoInputs.cache
+F:\c#\homework\lesson\lesson\obj\Debug\netcoreapp3.1\lesson.AssemblyInfo.cs
+F:\c#\homework\lesson\lesson\obj\Debug\netcoreapp3.1\lesson.dll
+F:\c#\homework\lesson\lesson\obj\Debug\netcoreapp3.1\lesson.pdb

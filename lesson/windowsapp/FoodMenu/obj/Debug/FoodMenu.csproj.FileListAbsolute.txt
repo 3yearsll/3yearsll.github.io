@@ -1,0 +1,9 @@
+F:\c#\lesson\windowsapp\FoodMenu\bin\Debug\FoodMenu.exe.config
+F:\c#\lesson\windowsapp\FoodMenu\bin\Debug\FoodMenu.exe
+F:\c#\lesson\windowsapp\FoodMenu\bin\Debug\FoodMenu.pdb
+F:\c#\lesson\windowsapp\FoodMenu\obj\Debug\FoodMenu.Form1.resources
+F:\c#\lesson\windowsapp\FoodMenu\obj\Debug\FoodMenu.Properties.Resources.resources
+F:\c#\lesson\windowsapp\FoodMenu\obj\Debug\FoodMenu.csproj.GenerateResource.cache
+F:\c#\lesson\windowsapp\FoodMenu\obj\Debug\FoodMenu.csproj.CoreCompileInputs.cache
+F:\c#\lesson\windowsapp\FoodMenu\obj\Debug\FoodMenu.exe
+F:\c#\lesson\windowsapp\FoodMenu\obj\Debug\FoodMenu.pdb

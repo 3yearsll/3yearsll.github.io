@@ -1,0 +1,11 @@
+F:\c#\homework\homework_3_30\birthday\bin\Debug\netcoreapp3.1\birthday.exe
+F:\c#\homework\homework_3_30\birthday\bin\Debug\netcoreapp3.1\birthday.deps.json
+F:\c#\homework\homework_3_30\birthday\bin\Debug\netcoreapp3.1\birthday.runtimeconfig.json
+F:\c#\homework\homework_3_30\birthday\bin\Debug\netcoreapp3.1\birthday.runtimeconfig.dev.json
+F:\c#\homework\homework_3_30\birthday\bin\Debug\netcoreapp3.1\birthday.dll
+F:\c#\homework\homework_3_30\birthday\bin\Debug\netcoreapp3.1\birthday.pdb
+F:\c#\homework\homework_3_30\birthday\obj\Debug\netcoreapp3.1\birthday.csprojAssemblyReference.cache
+F:\c#\homework\homework_3_30\birthday\obj\Debug\netcoreapp3.1\birthday.AssemblyInfoInputs.cache
+F:\c#\homework\homework_3_30\birthday\obj\Debug\netcoreapp3.1\birthday.AssemblyInfo.cs
+F:\c#\homework\homework_3_30\birthday\obj\Debug\netcoreapp3.1\birthday.dll
+F:\c#\homework\homework_3_30\birthday\obj\Debug\netcoreapp3.1\birthday.pdb

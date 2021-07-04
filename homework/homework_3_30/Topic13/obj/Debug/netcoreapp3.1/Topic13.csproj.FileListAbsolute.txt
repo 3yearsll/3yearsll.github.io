@@ -1,0 +1,11 @@
+F:\c#\homework\homework_3_30\Topic13\bin\Debug\netcoreapp3.1\Topic13.exe
+F:\c#\homework\homework_3_30\Topic13\bin\Debug\netcoreapp3.1\Topic13.deps.json
+F:\c#\homework\homework_3_30\Topic13\bin\Debug\netcoreapp3.1\Topic13.runtimeconfig.json
+F:\c#\homework\homework_3_30\Topic13\bin\Debug\netcoreapp3.1\Topic13.runtimeconfig.dev.json
+F:\c#\homework\homework_3_30\Topic13\bin\Debug\netcoreapp3.1\Topic13.dll
+F:\c#\homework\homework_3_30\Topic13\bin\Debug\netcoreapp3.1\Topic13.pdb
+F:\c#\homework\homework_3_30\Topic13\obj\Debug\netcoreapp3.1\Topic13.AssemblyInfoInputs.cache
+F:\c#\homework\homework_3_30\Topic13\obj\Debug\netcoreapp3.1\Topic13.AssemblyInfo.cs
+F:\c#\homework\homework_3_30\Topic13\obj\Debug\netcoreapp3.1\Topic13.dll
+F:\c#\homework\homework_3_30\Topic13\obj\Debug\netcoreapp3.1\Topic13.pdb
+F:\c#\homework\homework_3_30\Topic13\obj\Debug\netcoreapp3.1\Topic13.csprojAssemblyReference.cache

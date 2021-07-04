@@ -1,0 +1,12 @@
+F:\c#\lesson\windowsapp\LogIn\bin\Debug\LogIn.exe.config
+F:\c#\lesson\windowsapp\LogIn\bin\Debug\LogIn.exe
+F:\c#\lesson\windowsapp\LogIn\bin\Debug\LogIn.pdb
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.csproj.AssemblyReference.cache
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.Form1.resources
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.Properties.Resources.resources
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.csproj.GenerateResource.cache
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.csproj.CoreCompileInputs.cache
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.exe
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.pdb
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.Form2.resources
+F:\c#\lesson\windowsapp\LogIn\obj\Debug\LogIn.Form3.resources

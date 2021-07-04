@@ -1,0 +1,10 @@
+F:\c#\lesson\windowsapp\Textbox\bin\Debug\Textbox.exe.config
+F:\c#\lesson\windowsapp\Textbox\bin\Debug\Textbox.exe
+F:\c#\lesson\windowsapp\Textbox\bin\Debug\Textbox.pdb
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.csproj.AssemblyReference.cache
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.Form1.resources
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.Properties.Resources.resources
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.csproj.GenerateResource.cache
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.csproj.CoreCompileInputs.cache
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.exe
+F:\c#\lesson\windowsapp\Textbox\obj\Debug\Textbox.pdb
