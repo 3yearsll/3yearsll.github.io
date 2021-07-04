@@ -1,8 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -88,7 +89,7 @@ namespace LogIn
             }
         }
         private void textBox3_KeyPress(object sender, KeyPressEventArgs e)
-        {
+        {//不输入手机号无法注册
             if (textBox3.Text.Length > 0)
             {
                 button1.Enabled = true;
@@ -123,7 +124,13 @@ namespace LogIn
             else
             {
                 richTextBox1.Text ="学号:"+ textBox1.Text + "\n" +"姓名:"+ textBox2.Text+"\n" +"年龄:"+ numericUpDown1.Value + "岁"+"\n"+"性别:" + sex + "\n" + "院系:" + comboBox4.SelectedItem +"\n"+ "专业:" + comboBox5.SelectedItem + "\n" + "年级:" + comboBox7.SelectedItem + "\n"+"班级:" + comboBox6.SelectedItem + "\n" + "籍贯:" + comboBox1.SelectedItem + comboBox2.SelectedItem + "\n" + "民族:" + comboBox3.SelectedItem + "\n" + "联系方式:" + textBox3.Text;
-                
+                //将学生信息保存到记事本中
+                StreamWriter rw = new StreamWriter("StudentInformation.txt",true);//true为可以向文件中追加内容
+                rw.WriteLine(richTextBox1.Text);
+                rw.WriteLine();
+                rw.Flush();
+                rw.Close();
+
                 MessageBox.Show("注册成功");
             }
         }
